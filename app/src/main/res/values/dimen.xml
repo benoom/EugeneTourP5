@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top">16dp</dimen>
+    <dimen name="height_divider">0dp</dimen>
+    <dimen name="margin_top_list">24dp</dimen>
+    <dimen name="padding_bar">8dp</dimen>
+    <dimen name="text_size_header">18sp</dimen>
+    <dimen name="padding_info_box">8dp</dimen>
+    <dimen name="text_size_info_box">16sp</dimen>
+    <dimen name="list_item_width">350dp</dimen>
+</resources>

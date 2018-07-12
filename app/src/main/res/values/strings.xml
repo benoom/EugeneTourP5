@@ -1,0 +1,143 @@
+<resources>
+    <!-- All information from the Eugene, Cascades and Coast website. https://www.eugenecascadescoast.org/eugene/ -->
+    <string name="app_name">Tour Eugene</string>
+    <string name="fragment_eat">Eat</string>
+    <string name="fragment_stay">Stay</string>
+    <string name="fragment_play">Play</string>
+    <string name="fragment_arts">Arts</string>
+    <string name="valley_river_name">Valley River Inn</string>
+    <string name="valley_river_address">1000 Valley River Way\nEugene OR 97401</string>
+    <string name="valley_river_phone">541.743.1000</string>
+    <string name="valley_river_website">https://www.valleyriverinn.com/</string>
+    <string name="valley_river_details">Staged on the Willamette River, the Valley River Inn
+        welcomes guests home. From local cuisine at SweetWaters, art from the city and a staff that
+        embraces the spirit of local hospitality; they embody what it truly means to be Eugene.
+        Embracing the region’s history, they provide genuinely warm Pacific Northwest hospitality
+        with a stunning riverfront location. The 15,000 sq ft of meeting space includes three
+        ballrooms. Along with the unmatched scenic views; professional staff and a comfortable
+        and relaxing atmosphere make your family event, corporate meeting, or special occasion
+        one to remember.</string>
+    <string name="inn_at_5th_name">Inn at the 5th</string>
+    <string name="inn_at_5th_address">205 E 6th Ave\nEugene OR 97401</string>
+    <string name="inn_at_5th_phone">541.743.4099</string>
+    <string name="inn_at_5th_website">https://www.innat5th.com/</string>
+    <string name="inn_at_5th_details">Located in the 5th Street Public Market in downtown Eugene,
+        the Inn at the 5th is a four diamond boutique hotel featuring a variety of guestrooms and
+        suites with fireplaces, window-seats, balconies and unique decor. Other amenities include
+        complimentary cruiser bikes, room service, butler pantries, fitness room, complimentary
+        Wi-Fi, business centers and complimentary glass of wine on arrival, as well as complimentary
+        snacks and beverages. Gourmet dining and room-service provided by Marché and salon and spa
+        services are provided by Gervais Salon and Spa. Meeting space available.
+</string>
+    <string name="campbell_house_name">Campbell House</string>
+    <string name="campbell_house_address">252 Pearl St\nEugene OR 97401</string>
+    <string name="campbell_house_phone">541.343.1119</string>
+    <string name="campbell_house_website">https://www.campbellhouse.com/</string>
+    <string name="campbell_house_details">A luxurious Eugene bed and breakfast in a garden setting
+        overlooking downtown Eugene and known for its charming accommodations and comforts. Built in
+        1892 and restored in the tradition of a fine European hotel. Elegant guest rooms feature
+        luxury amenities. Catering to business and leisure travel and available for weddings,
+        receptions and business meetings. Inquire about special events from tea to dinners.
+        Nestled against Skinners Butte and in close proximity to many walking and biking paths,
+        restaurants, Autzen Stadium and the University of Oregon campus.
+</string>
+    <string name="mount_pisgah_name">Mount Pisgah</string>
+    <string name="mount_pisgah_address">34901 Frank Parrish Rd\nEugene OR 97405</string>
+    <string name="mount_pisgah_phone">541.747.3817</string>
+    <string name="mount_pisgah_website">http://www.mountpisgaharboretum.org/</string>
+    <string name="mount_pisgah_details">A variety of easy to moderate loop trails from 0.5 miles to
+        1.5 miles (0,3 km to 1,2 km) make Mt. Pisgah a great place for all ages and abilities to
+        explore. The trails wind along the river through trees and wildflowers labeled to help
+        visitors learn plant identification. Watch for bullfrogs and turtles in the water garden.
+        Mt. Pisgah Arboretum provides maps of trails throughout the park. Adjacent Howard Buford
+        Recreation Area offers longer and more strenuous hikes. DAY-USE FEE AREA/RECREATION PASS
+        REQUIRED
+</string>
+    <string name="spencer_butte_name">Spencer Butte Trail</string>
+    <string name="spencer_butte_address">85385 Willamette St\nEugene OR 97405</string>
+    <string name="spencer_butte_phone">541.682.4800</string>
+    <string name="spencer_butte_website">https://www.eugene-or.gov/Facilities/Facility/Details/
+        Ridgeline-Trail-System-129</string>
+    <string name="spencer_butte_details">This moderate to difficult 1.7 mile (2,7 km) loop trail
+        climbs 784 ft (235 m) before reaching the summit of Spencer Butte. The 360-degree view from
+        the summit makes this short but challenging trail worth the effort for hikers of all ages.
+        Look for views of the Three Sisters and Fern Ridge Reservoir. Connect this trail with other
+        sections of the Ridgeline Trail System for a longer hike. Watch for poison oak and rattle
+        snakes along the trail.
+</string>
+    <string name="pres_trail_name">Pre\'s Trail</string>
+    <string name="pres_trail_address">Alton Baker Park and Willamette River\nEugene OR 97401</string>
+    <string name="pres_trail_phone">541.682.4800</string>
+    <string name="pres_trail_website">https://www.eugene-or.gov/1727/Pres-Trail</string>
+    <string name="pres_trail_details">Follow in the footsteps of legendary track star Steve
+        Prefontaine on this scenic path located by Alton Baker Park. The path has loops from 1 mile
+        to 10,000 meters and is a soft, bark covered trail. You can also connect the trail to the
+        Willamette River Trail.
+</string>
+    <string name="bier_stein_name">The Bier Stein Bottleshop and Pub</string>
+    <string name="bier_stein_address">1591 Willamette St\nEugene OR 97401</string>
+    <string name="bier_stein_phone">541.485.2437</string>
+    <string name="bier_stein_website">http://thebierstein.com/</string>
+    <string name="bier_stein_details">Since they opened in 2005, the Bier Stein Bottleshop and
+        Taphouse features Eugene\'s largest beer selection. This European-style bottleshop offers
+        over 1,000 bottled beers and over 30 on tap. Pair with soups, salads, appetizers, deli
+        sandwiches and grilled paninis. Their knowledgeable staff can help you choose from their
+        vast selection. Billard table and comfortable seating.
+</string>
+    <string name="cafe_440_name">Café 440</string>
+    <string name="cafe_440_address">440 Coburg Rd\nEugene OR 97401</string>
+    <string name="cafe_440_phone">541.505.8493</string>
+    <string name="cafe_440_website">http://www.cafe440.com/</string>
+    <string name="cafe_440_details">Comfort food with a modern twist is the motto at Café 440, where
+        Chef Kathryn Nordgren is creating delicious meals out of locally grown products. Menu items
+        such as country fried chicken, shepherd\'s pie and salmon fish and chips won\'t disappoint.
+        Serving lunch, dinner and Sunday brunch. Local artists Shelley James and Callan Coleman
+        perform every other Tuesday evening with a portion of the sales from those nights going to
+        local charities.
+</string>
+    <string name="beppe_name">Beppe and Gianni\'s Trattoria</string>
+    <string name="beppe_address">1646 E 19th Ave\nEugene OR 97403</string>
+    <string name="beppe_phone">541.683.6661</string>
+    <string name="beppe_website">http://beppeandgiannis.net/</string>
+    <string name="beppe_detail">Consistently voted \'Eugene\'s Best Italian Restaurant\' by The
+        Register Guard, Beppe and Gianni\'s is a staple in the Eugene community. They offer a sunny,
+        warm Tuscan villa ambiance to the University of Oregon campus, with a cuisine to match. They
+        offer an incredible authentic menu with an extensive wine list. They've been serving
+        traditional Italian cuisine since 1998.
+</string>
+    <string name="hult_center_name">Hult Center for the Performing Arts</string>
+    <string name="hult_center_address">7th Ave and Willamette St\nEugene OR 97401</string>
+    <string name="hult_center_phone">541.682.5000</string>
+    <string name="hult_center_website">http://www.hultcenter.org/</string>
+    <string name="hult_center_details">A regional performing arts center, located in the heart of
+        downtown Eugene, next door to the Hilton hotel. The two beautiful theaters, the Silva
+        Concert Hall can seat 2,500 and the Soreng Theater can seat 500 people. The Studio provides
+        space for receptions, meetings, lectures and presentations. They are the host to world-class
+        performances and conference sessions. Resident companies include the Eugene Opera, Eugene
+        Symphony, Eugene Concert Choir, Eugene Ballet, Ballet Fantastique and Fred Crafts' Radio
+        Redux. Nationally touring headliners, Broadway and dance shows regularly grace the stage.
+</string>
+    <string name="the_shedd_name">The John G. Shedd Institute for the Arts</string>
+    <string name="the_shedd_address">868 High St\nEugene OR 97401</string>
+    <string name="the_shedd_phone">541.687.6526</string>
+    <string name="the_shedd_website">http://www.theshedd.org/</string>
+    <string name="the_shedd_details">The Shedd Institute offers concerts, conferences, lectures,
+        classes and other events year-round; including four unique concert series\'. The Shedd
+        Community Music School offers classes, private lessons and music education. They also put on
+        the Oregon Festival of American Music every August. This historic building and venue is
+        located in downtown Eugene.
+</string>
+    <string name="museum_name">The Museum of Natural and Cultural History</string>
+    <string name="museum_address">1680 E 15th Ave\nEugene OR 97403</string>
+    <string name="museum_phone">541.346.3024</string>
+    <string name="museum_website">http://natural-history.uoregon.edu/</string>
+    <string name="museum_description">At this world-class museum, visitors explore 15,000 years of
+        Oregon\'s cultural history and 300 million years of its natural history and geology in a
+        Northwest Coast longhouse-inspired building. From the world\'s oldest shoes to the giant
+        sabertooth salmon, the museum celebrates Oregon\'s deep history through striking imagery,
+        rare artifacts and fossils, and hands-on displays for visitors of all ages. General
+        admission is $5 with discounts for seniors and youth. Guided exhibit talks are offered daily
+        at 2 p.m. Free admission on the first Friday each month.
+</string>
+
+</resources>
