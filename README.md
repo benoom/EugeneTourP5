@@ -9,7 +9,8 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
 
 Support
-Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub. 
+Patches are encouraged, and may be submitted by forking this project and submitting a pull request through GitHub.
+Contact benjoom@gmail.com if you have questions.
 
 License
 Copyright 2016 The Android Open Source Project, Inc.
